@@ -1,0 +1,12 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+ #wpbody-content .card{
+ 	padding: 0!important;
+ 	max-width: 100%!important;
+ }
+
+ .form-check-input{
+ 	margin: 8px 0 0 -24px!important;
+ }
